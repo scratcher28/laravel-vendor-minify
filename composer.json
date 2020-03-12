@@ -1,5 +1,5 @@
 {
-    "name": "goszowski/laravel-vendor-minify",
+    "name": "scratcher28/laravel-vendor-minify",
     "description": "A vendor minify package, to remove tests and documentation and minifing all php files to save space",
     "keywords": ["laravel", "vendor", "cleanup", "minify"],
     "license": "MIT",
